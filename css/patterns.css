@@ -1,0 +1,30 @@
+h1 {
+    font-size: 7rem;
+    color: var(--black);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+a {
+    font-size: 1.9rem;
+    color: var(--span-color);
+}
+
+p {
+    font-size: 2rem;
+    color: var(--span-color);
+}
+
+h3 {
+    font-size: 2.3rem;
+    color: var(--black);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+button {
+    padding: 2rem;
+    background-color: var(--button-color);
+    color: var(--white);
+    border-radius: .7rem;
+}
